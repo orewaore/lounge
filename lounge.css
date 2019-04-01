@@ -10,19 +10,18 @@
   padding: 25px;
   padding-left: 80px;
   margin: 30px;
-  margin-right: 250px;
+  margin-right: 300px;
   background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: top left;
-  border-style: dashed;
+  /* border-style: groove; */
   border-color: white;
   border-width: thin;
   border-width: 5px;
-  border-color: red;
-  border-color: rgb(100%,0%,0%);
-  border-top-color: black;
+  border-color: rgb(0, 247, 255);
+  border-top-color:green;
   border-top-width: thick;
-  border-top-style: dashed;
+  border-style: 15px;
 }
 #elixirs{
   border-width: thin;
@@ -42,6 +41,7 @@
   margin: 0px 20px 30px 10px;
   padding: 20px;
   font: small/1.6em Verdana, Helvetica,Arial,sans-serif;
+  float:right;
 }
 h1,h2{
   color: #007e7e;
